@@ -562,10 +562,7 @@ export class App extends React.Component<IAppProps, IAppState> {
       return
     }
 
-    if (
-      __RELEASE_CHANNEL__ === 'development' ||
-      __RELEASE_CHANNEL__ === 'test'
-    ) {
+    if (__RELEASE_CHANNEL__ === 'development') {
       return
     }
 
