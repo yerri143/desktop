@@ -1,7 +1,7 @@
 {
   "releases": {
-    "2.9.7-test9": [
-      "[Improved] Electron upgrade 14.2.3 - auto updater enabled.. take two"
+    "2.9.7-test10": [
+      "[Improved] Electron upgrade 14.2.3 - auto updater enabled.. an update?"
     ],
     "2.9.6": [
       "[Added] View and re-run the check runs for the checked out pull request.",
