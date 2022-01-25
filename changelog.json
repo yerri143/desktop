@@ -1,5 +1,8 @@
 {
   "releases": {
+    "2.9.7-test15": [
+      "[Improved] Electron upgrade 14.2.3 - Auto updater enabled. Release 2 (After ipc render contract merged in)"
+    ],
     "2.9.7-test14": [
       "[Improved] Electron upgrade 14.2.3 - Auto updater enabled. (After ipc render contract merged in)"
     ],
