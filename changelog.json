@@ -1,7 +1,7 @@
 {
   "releases": {
-    "2.9.7-test5": [
-      "[Improved] Electron upgrade 14.2.3 - auto updater enabled.. take two"
+    "2.9.7-test14": [
+      "[Improved] Electron upgrade 14.2.3 - Auto updater enabled. (After ipc render contract merged in)"
     ],
     "2.9.6": [
       "[Added] View and re-run the check runs for the checked out pull request.",
