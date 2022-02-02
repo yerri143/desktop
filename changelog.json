@@ -1,5 +1,8 @@
 {
   "releases": {
+    "2.9.7-test21": [
+      "[Improved] Manual check for updates is enabled on test channel"
+    ],
     "2.9.7-beta1": [
       "[New] Initial support for system notifications when checks fail in macOS - #13655",
       "[Added] Support pushing workflow files for GitHub Actions to GitHub Enterprise Server - #13640",
