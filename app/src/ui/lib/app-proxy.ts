@@ -1,8 +1,6 @@
-import * as remote from '@electron/remote'
 import { getAppPathProxy } from '../main-process-proxy'
 import { getPath } from '../main-process-proxy'
 
-let app: Electron.App | null = null
 let path: string | null = null
 let documentsPath: string | null = null
 
@@ -23,14 +21,6 @@ export type PathType =
   | 'recent'
   | 'logs'
   | 'crashDumps'
-
-function getApp(): Electron.App {
-  if (!app) {
-    app = remote.app
-  }
-
-  return app
-}
 
 /**
  * Get the version of the app.
