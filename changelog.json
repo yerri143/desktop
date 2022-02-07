@@ -1,6 +1,6 @@
 {
   "releases": {
-    "2.9.7-test24": ["[Fixed] Electron 16 upgrade"],
+    "2.9.7-test25": ["[Fixed] Electron 16 upgrade - bump node to 16.9.1"],
     "2.9.7-beta1": [
       "[New] Initial support for system notifications when checks fail in macOS - #13655",
       "[Added] Support pushing workflow files for GitHub Actions to GitHub Enterprise Server - #13640",
