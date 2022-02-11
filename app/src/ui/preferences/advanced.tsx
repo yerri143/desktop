@@ -204,6 +204,13 @@ export class Advanced extends React.Component<
           Allows the display of notifications when high-signal events take place
           in the current repository.
         </p>
+        <p className="git-settings-description">
+          ⚠️ In order to see the notifications, you must give GitHub Desktop{' '}
+          <LinkButton uri="x-apple.systempreferences:com.apple.preference.notifications">
+            permission to send notifications
+          </LinkButton>
+          .
+        </p>
       </div>
     )
   }
