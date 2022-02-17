@@ -1,5 +1,6 @@
 {
   "releases": {
+    "2.9.9-test2": ["[New] Upgrade Electron to 16.0.9"],
     "2.9.9-beta1": [
       "[Fixed] App no longer crashes intermittently when running remote Git operations - #13916",
       "[Fixed] Unicode emoji on Windows no longer render as monochrome outlines - #13914",
